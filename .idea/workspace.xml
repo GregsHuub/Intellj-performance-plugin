@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2cc01d5-dc07-48df-9884-a3039b529f05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FirstPluginSecondAttempt" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FirstPluginSecondAttempt" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FirstPluginSecondAttempt" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YOVL6wWCqWBiExM4Ba9iYZGCT3" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cs-ees-code-tables-types" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RunManager" selected="Gradle.FirstPluginSecondAttempt [runIde]">
+    <configuration name="FirstPluginSecondAttempt [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Plugin" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FirstPluginSecondAttempt [runIde]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/OneDrive - Atos/Desktop/Projekty Java/example/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Atos/Desktop/Scala Projects/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Atos/Desktop/Scala course 1/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Atos/Desktop/Scala course 1/recfun/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2cc01d5-dc07-48df-9884-a3039b529f05" name="Default Changelist" comment="" />
+      <created>1582813568405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582813568405</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1582814195208">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="591" y="153" key="#com.intellij.ide.util.MemberChooser/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582814195208" />
+    <state x="570" y="202" key="FileChooserDialogImpl" timestamp="1582816162685">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="570" y="202" key="FileChooserDialogImpl/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582816162685" />
+    <state width="1625" height="303" key="GridCell.Tab.0.bottom" timestamp="1582839619487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1625" height="303" key="GridCell.Tab.0.bottom/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582816475150" />
+    <state width="1625" height="303" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582839619487" />
+    <state width="1625" height="303" key="GridCell.Tab.0.center" timestamp="1582839619487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1625" height="303" key="GridCell.Tab.0.center/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582816475150" />
+    <state width="1625" height="303" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582839619487" />
+    <state width="1625" height="303" key="GridCell.Tab.0.left" timestamp="1582839619487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1625" height="303" key="GridCell.Tab.0.left/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582816475150" />
+    <state width="1625" height="303" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582839619487" />
+    <state width="1625" height="303" key="GridCell.Tab.0.right" timestamp="1582839619487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1625" height="303" key="GridCell.Tab.0.right/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582816475150" />
+    <state width="1625" height="303" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582839619487" />
+    <state x="110" y="27" key="new project wizard" timestamp="1582814809113">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="110" y="27" key="new project wizard/-1366.101.1366.728/1680.0.1680.1010/0.0.1680.1010@0.0.1680.1010" timestamp="1582814809113" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\GregHP\Desktop\javaApps\PLUGINTestPROJ\.idea\jarRepositories.xml" timestamp="1583019039888" />
+    <file path="C:\Users\GregHP\Desktop\javaApps\PLUGINTestPROJ\.idea\modules.xml" timestamp="1583019187211" />
+    <file path="C:\Users\GregHP\Desktop\javaApps\PLUGINTestPROJ\.idea\gradle.xml" timestamp="1583019187180" />
+    <file path="C:\Users\GregHP\Desktop\javaApps\PLUGINTestPROJ\.idea\misc.xml" timestamp="1583018993880" />
+    <file path="C:\Users\GregHP\Desktop\javaApps\PLUGINTestPROJ\.idea\workspace.xml" timestamp="1583019769363" />
+    <file path="C:\Users\GregHP\Desktop\javaApps\PLUGINTestPROJ\.idea\PLUGINTestPROJ.iml" timestamp="1583019187117" />
+  </project-files>
+</conversion>

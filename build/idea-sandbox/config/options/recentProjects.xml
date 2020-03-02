@@ -2,15 +2,15 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Desktop/PLUGININTELLJ/proj1">
+        <entry key="$USER_HOME$/Desktop/javaApps/PLUGINTestPROJ">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1YOYERfm0t3VQvHI6KwpKbQjBUM">
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1YVDhsdnl677GUXSZDTaMEFwyFu">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-193.6494.35" />
-              <option name="buildTimestamp" value="1581399207772" />
-              <frame x="132" y="226" width="1400" height="970" />
+              <option name="buildTimestamp" value="1581399209578" />
+              <frame x="0" y="92" width="1750" height="959" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1582815946753" />
+              <option name="projectOpenTimestamp" value="1583019754021" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -18,7 +18,7 @@
     </option>
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/Desktop/PLUGININTELLJ/proj1" />
+        <option value="$USER_HOME$/Desktop/javaApps/PLUGINTestPROJ" />
       </list>
     </option>
   </component>

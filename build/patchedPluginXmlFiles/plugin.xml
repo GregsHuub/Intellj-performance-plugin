@@ -6,7 +6,7 @@
   <id>com.atos.plugins.FirstPluginSecondAttempt</id>
   <name>OurFristPluginDemo</name>
   <version>1.0-SNAPSHOT</version>
-  <vendor email="my@atos.net" url="http://www.atos.com">AtosCompany</vendor>
+  <vendor email="my@atos.net" url="http://www.ownCompany.com">OwnCompany</vendor>
   <description>
     narazie bez opisu ale sie znajdzie potem, teraz 40 znakow ma byc.
     </description>
@@ -14,8 +14,8 @@
   <extensions defaultExtensionNs="com.intellij"/>
   <actions>
     <group id="OurFristPluginDemo.HelloAction" text="GuzikZagadka" description="SomeDescription">
-      <add-to-group group-id="MainMenu" anchor="last"/>
-      <action class="com.aptkode.ourFristPluginDemo.HelloAction" id="OurFristPluginDemo.Actions.HelloAction" text="Wybierz lokalizacje nie wiadomo po co"/>
+      <add-to-group group-id="" anchor="last"/>
+      <action class="com.aptkode.ourFristPluginDemo.HelloAction" id="OurFristPluginDemo.Actions.HelloAction" text="Wybierz lokalizacje"/>
     </group>
   </actions>
 </idea-plugin>

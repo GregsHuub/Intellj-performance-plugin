@@ -1,8 +1,8 @@
 <application>
   <component name="EventLogWhitelist">
-    <update recorder-id="FUS" last-modified="1582791369000" />
+    <update recorder-id="FUS" last-modified="1582895131000" />
   </component>
-  <component name="FeatureUsageStatistics" first-run="1582815159701" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+  <component name="FeatureUsageStatistics" first-run="1583019738760" have-been-shown="false" show-in-other="true" show-in-compilation="true">
     <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.aslist" count="0" last-shown="0" last-used="0" shown-count="0" />
